@@ -1,0 +1,78 @@
+html, body, div, h2, nav {
+    margin: 0;
+    padding: 0;
+  }
+body {
+    background-color: #fff7e4;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+.nav {
+    background-color:rgb(218, 165, 32);
+    position: fixed;
+    top: 0;
+    padding: 0px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+.nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.info {
+    text-align: right;
+    float: right;
+    margin-right: 10px;
+    word-spacing: 5px;
+}
+
+.name {
+    text-align: left;
+    float: left;
+    margin-left: 50px;
+    color: white;
+    font-size: 18px;
+}
+.pages {
+display: inline-block;
+margin: 65px auto;
+}
+
+.pages p {
+    text-align: center;
+    font-size: 12px;
+    padding: 0 15px;
+    margin: 10px 0;
+}
+.moreinfo {
+    background-color: goldenrod;
+    width: 275x;
+    height: 32px;
+    text-align: center;
+    margin: 5px auto;
+    color: white;
+    font-size: large;
+}
+.card {
+    float: left;
+    border: 1px solid goldenrod;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px 10px;
+    width: 225px;
+  }
+.more {
+    padding: 0.1px;
+  }
+h2 {
+    font-weight: normal;
+    text-decoration: none;
+    text-align: left;
+    padding: 10px 5px;
+  }
+p {
+    font-size: 16px;
+  }
+  
